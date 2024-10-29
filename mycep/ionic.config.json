@@ -1,0 +1,7 @@
+{
+  "name": "mycep",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
